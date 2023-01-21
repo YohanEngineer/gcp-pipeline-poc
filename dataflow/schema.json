@@ -1,0 +1,28 @@
+{
+  "BigQuery Schema": [
+    {
+      "name": "adresse",
+      "type": "STRING"
+    },
+    {
+      "name": "humidite",
+      "type": "FLOAT"
+    },
+    {
+      "name": "niveau_sonore",
+      "type": "FLOAT"
+    },
+    {
+      "name": "pollution_air",
+      "type": "FLOAT"
+    },
+    {
+      "name": "temperature",
+      "type": "FLOAT"
+    },
+    {
+      "name": "timestamp",
+      "type": "TIMESTAMP"
+    }
+  ]
+}

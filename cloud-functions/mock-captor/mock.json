@@ -1,0 +1,434 @@
+{
+  "00": {
+    "temperature": {
+      "min": 16,
+      "max": 18
+    },
+    "humidity": {
+      "min": 0.6,
+      "max": 0.8
+    },
+    "noise_level": {
+      "min": 0,
+      "max": 20
+    },
+    "air_pollution": {
+      "min": 0,
+      "max": 100
+    }
+  },
+  "01": {
+    "temperature": {
+      "min": 17,
+      "max": 18
+    },
+    "humidity": {
+      "min": 0.6,
+      "max": 0.9
+    },
+    "noise_level": {
+      "min": 0,
+      "max": 18
+    },
+    "air_pollution": {
+      "min": 0,
+      "max": 110
+    }
+  },
+  "02": {
+    "temperature": {
+      "min": 16,
+      "max": 18
+    },
+    "humidity": {
+      "min": 0.6,
+      "max": 0.8
+    },
+    "noise_level": {
+      "min": 0,
+      "max": 20
+    },
+    "air_pollution": {
+      "min": 0,
+      "max": 120
+    }
+  },
+  "03": {
+    "temperature": {
+      "min": 16,
+      "max": 19
+    },
+    "humidity": {
+      "min": 0.6,
+      "max": 0.8
+    },
+    "noise_level": {
+      "min": 0,
+      "max": 21
+    },
+    "air_pollution": {
+      "min": 0,
+      "max": 130
+    }
+  },
+  "04": {
+    "temperature": {
+      "min": 17,
+      "max": 19
+    },
+    "humidity": {
+      "min": 0.6,
+      "max": 0.8
+    },
+    "noise_level": {
+      "min": 0,
+      "max": 20
+    },
+    "air_pollution": {
+      "min": 0,
+      "max": 140
+    }
+  },
+  "05": {
+    "temperature": {
+      "min": 17,
+      "max": 20
+    },
+    "humidity": {
+      "min": 0.6,
+      "max": 0.8
+    },
+    "noise_level": {
+      "min": 0,
+      "max": 25
+    },
+    "air_pollution": {
+      "min": 0,
+      "max": 150
+    }
+  },
+  "6": {
+    "temperature": {
+      "min": 18,
+      "max": 19
+    },
+    "humidity": {
+      "min": 0.6,
+      "max": 0.8
+    },
+    "noise_level": {
+      "min": 0,
+      "max": 25
+    },
+    "air_pollution": {
+      "min": 0,
+      "max": 150
+    }
+  },
+  "07": {
+    "temperature": {
+      "min": 18,
+      "max": 21
+    },
+    "humidity": {
+      "min": 0.6,
+      "max": 0.8
+    },
+    "noise_level": {
+      "min": 0,
+      "max": 30
+    },
+    "air_pollution": {
+      "min": 40,
+      "max": 100
+    }
+  },
+  "08": {
+    "temperature": {
+      "min": 17,
+      "max": 19
+    },
+    "humidity": {
+      "min": 0.6,
+      "max": 0.8
+    },
+    "noise_level": {
+      "min": 20,
+      "max": 40
+    },
+    "air_pollution": {
+      "min": 50,
+      "max": 160
+    }
+  },
+  "09": {
+    "temperature": {
+      "min": 17,
+      "max": 19
+    },
+    "humidity": {
+      "min": 0.6,
+      "max": 0.8
+    },
+    "noise_level": {
+      "min": 0,
+      "max": 20
+    },
+    "air_pollution": {
+      "min": 0,
+      "max": 100
+    }
+  },
+  "10": {
+    "temperature": {
+      "min": 18,
+      "max": 20
+    },
+    "humidity": {
+      "min": 0.6,
+      "max": 0.8
+    },
+    "noise_level": {
+      "min": 0,
+      "max": 20
+    },
+    "air_pollution": {
+      "min": 0,
+      "max": 100
+    }
+  },
+  "11": {
+    "temperature": {
+      "min": 18,
+      "max": 20
+    },
+    "humidity": {
+      "min": 0.6,
+      "max": 0.8
+    },
+    "noise_level": {
+      "min": 0,
+      "max": 20
+    },
+    "air_pollution": {
+      "min": 0,
+      "max": 100
+    }
+  },
+  "12": {
+    "temperature": {
+      "min": 18,
+      "max": 21
+    },
+    "humidity": {
+      "min": 0.6,
+      "max": 0.8
+    },
+    "noise_level": {
+      "min": 0,
+      "max": 20
+    },
+    "air_pollution": {
+      "min": 0,
+      "max": 100
+    }
+  },
+  "13": {
+    "temperature": {
+      "min": 18,
+      "max": 21
+    },
+    "humidity": {
+      "min": 0.6,
+      "max": 0.8
+    },
+    "noise_level": {
+      "min": 0,
+      "max": 20
+    },
+    "air_pollution": {
+      "min": 0,
+      "max": 100
+    }
+  },
+  "14": {
+    "temperature": {
+      "min": 18,
+      "max": 22
+    },
+    "humidity": {
+      "min": 0.6,
+      "max": 0.8
+    },
+    "noise_level": {
+      "min": 0,
+      "max": 20
+    },
+    "air_pollution": {
+      "min": 0,
+      "max": 100
+    }
+  },
+  "15": {
+    "temperature": {
+      "min": 19,
+      "max": 22
+    },
+    "humidity": {
+      "min": 0.6,
+      "max": 0.8
+    },
+    "noise_level": {
+      "min": 0,
+      "max": 20
+    },
+    "air_pollution": {
+      "min": 0,
+      "max": 100
+    }
+  },
+  "16": {
+    "temperature": {
+      "min": 19,
+      "max": 23
+    },
+    "humidity": {
+      "min": 0.6,
+      "max": 0.8
+    },
+    "noise_level": {
+      "min": 0,
+      "max": 20
+    },
+    "air_pollution": {
+      "min": 0,
+      "max": 100
+    }
+  },
+  "17": {
+    "temperature": {
+      "min": 19,
+      "max": 22
+    },
+    "humidity": {
+      "min": 0.6,
+      "max": 0.8
+    },
+    "noise_level": {
+      "min": 0,
+      "max": 20
+    },
+    "air_pollution": {
+      "min": 0,
+      "max": 100
+    }
+  },
+  "18": {
+    "temperature": {
+      "min": 19,
+      "max": 23
+    },
+    "humidity": {
+      "min": 0.6,
+      "max": 0.8
+    },
+    "noise_level": {
+      "min": 0,
+      "max": 20
+    },
+    "air_pollution": {
+      "min": 0,
+      "max": 100
+    }
+  },
+  "19": {
+    "temperature": {
+      "min": 19,
+      "max": 23
+    },
+    "humidity": {
+      "min": 0.6,
+      "max": 0.8
+    },
+    "noise_level": {
+      "min": 0,
+      "max": 20
+    },
+    "air_pollution": {
+      "min": 0,
+      "max": 100
+    }
+  },
+  "20": {
+    "temperature": {
+      "min": 19,
+      "max": 22
+    },
+    "humidity": {
+      "min": 0.6,
+      "max": 0.8
+    },
+    "noise_level": {
+      "min": 0,
+      "max": 20
+    },
+    "air_pollution": {
+      "min": 0,
+      "max": 100
+    }
+  },
+  "21": {
+    "temperature": {
+      "min": 19,
+      "max": 22
+    },
+    "humidity": {
+      "min": 0.6,
+      "max": 0.8
+    },
+    "noise_level": {
+      "min": 0,
+      "max": 20
+    },
+    "air_pollution": {
+      "min": 0,
+      "max": 100
+    }
+  },
+  "22": {
+    "temperature": {
+      "min": 17,
+      "max": 20
+    },
+    "humidity": {
+      "min": 0.6,
+      "max": 0.8
+    },
+    "noise_level": {
+      "min": 5,
+      "max": 23
+    },
+    "air_pollution": {
+      "min": 0,
+      "max": 100
+    }
+  },
+  "23": {
+    "temperature": {
+      "min": 17,
+      "max": 19
+    },
+    "humidity": {
+      "min": 0.6,
+      "max": 0.8
+    },
+    "noise_level": {
+      "min": 0,
+      "max": 20
+    },
+    "air_pollution": {
+      "min": 0,
+      "max": 100
+    }
+  }
+}
